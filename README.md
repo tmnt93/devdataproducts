@@ -1,6 +1,6 @@
 Economic and Population Impact of Storms
 ========================================================
-date: 08/21/2016
+08/21/2016
 
 
 Summary of Storm Impact
@@ -32,8 +32,6 @@ Plotting features
 - The user can choose a subset of event types and generate plots
 - The plot on this slide is interactive, click on one of the three options
 
-
-<iframe src=' presentation-figure/nvd3plot2-1.html ' scrolling='no' frameBorder='0' seamless class='rChart nvd3 ' id=iframe- populationImpact ></iframe> <style>iframe.rChart{ width: 100%; height: 400px;}</style>
 
 Additional Information
 ========================================================
