@@ -29,8 +29,8 @@ Background
 
 Plotting features
 ========================================================
-- The user can choose a subset of event types and generate plots
-- The plot on this slide is interactive, click on one of the three options
+- The user chooses a subset of event types and generate plots
+- The data can be stratified by category, state, and year
 
 
 Additional Information
