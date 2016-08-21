@@ -40,4 +40,6 @@ Additional Information
 
 - The indepth report is hosted on rpubs at http://www.rpubs.com/tmnt93/179418
 
+- The R Studio Presentation is hosted on github at https://github.com/tmnt93/devdataprodpres
+
 - The shinyapps.io app code is hosted on github at https://github.com/tmnt93/devdataproducts
